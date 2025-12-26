@@ -4,8 +4,8 @@
 Backend desarrollado en Django con modelos de inteligencia artificial para la estimación del peso de ganado bovino mediante análisis de imágenes.
 
 ## 🚀 Repositorios del Proyecto
-- **Frontend (App Móvil)**: https://github.com/JhosepSF/VacaMetric-Project-Front
-- **Backend (Modelos IA)**: https://github.com/JhosepSF/VacaMetric-Project-Back
+- **Frontend (App Móvil)**: https://github.com/MiguelValles80/VacaMetric-Project-Front
+- **Backend (Modelos IA)**: https://github.com/MiguelValles80/VacaMetric-Project-Back
 
 ## 📋 Requisitos Previos
 
@@ -23,7 +23,7 @@ Backend desarrollado en Django con modelos de inteligencia artificial para la es
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/JhosepSF/VacaMetric-Project-Back.git
+git clone https://github.com/MiguelValles80/VacaMetric-Project-Back.git
 cd VacaMetric-Project-Back
 ```
 
